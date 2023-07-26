@@ -1,0 +1,27 @@
+/* Reset default margin and padding for all elements */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply some basic styling to the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Center the text within the header */
+h1 {
+    text-align: center;
+}
+
+/* Add some spacing between the paragraph and the section */
+p {
+    margin-top: 20px;
+}
+
+/* Apply some padding to the section */
+section {
+    padding: 20px;
+}
